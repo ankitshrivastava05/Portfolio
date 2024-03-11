@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Frontend",
+      "skills": ["React", "JavaScript", "CSS", "HTML"]
+    },
+    {
+        "title": "Database",
+        "skills": ["MySQL"]
+    },
+    {
+      "title": "Backend",
+      "skills": ["Java","SpringBoot", "Hibernate", "JSP"]
+    }
+    
+  ]

@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Portfolio",
+
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "JavaScript", "CSS", "HTML"]
+    },
+    {
+      "title": "Crypto Dashboard",
+
+      "description": "This is a project made to learn API integration into the Dashboard.",
+      "skills": ["React","ApexCharts", "JavaScript", "CSS"]
+    }
+  ]
